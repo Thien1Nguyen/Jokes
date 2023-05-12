@@ -2,8 +2,8 @@ const mongoose = require('mongoose');
 
 // In you I trust with my mongoDB info <3.
 const dbName = "jokesclouddb";
-const username = "lumbiemushie";
-const pw = "BhBQdzTgkxkIl0oy";
+const username = "censored";
+const pw = "censored";
 
 const uri = `mongodb+srv://${username}:${pw}@cluster0.zppu85g.mongodb.net/${dbName}?retryWrites=true&w=majority`;
 
